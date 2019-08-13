@@ -1,0 +1,2 @@
+[11-Aug-2019 22:52:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/allmovie/public_html/configs/funciones.php on line 9
+[11-Aug-2019 22:52:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/allmovie/public_html/configs/funciones.php on line 9
